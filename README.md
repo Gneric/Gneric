@@ -1,5 +1,5 @@
 <h2> Hey there, I'm Oscar </h2>
-<h4> I have a personal page if you wish to know more (about me)[https://gneric.vercel.app/portfolio] </h4>
+<h4> I have a personal page if you wish to know more [about me](https://gneric.vercel.app/portfolio) </h4>
 
 ```javascript
 const aboutMe = {
