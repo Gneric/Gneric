@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gneric/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:obiondi99@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=gneric.vercel.app)](gneric.vercel.app)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://gneric.vercel.app/)](https://gneric.vercel.app/)
 
 - Desarrollador cada vez mas destacado gracias a mi aprendizaje autonomo.
 - Siempre estoy en busqueda de nuevas tecnologias que me sirvan para añadir un poquito mas a lo que soy.
